@@ -16,7 +16,6 @@ locations:            # for online events, delete the second section below. for 
   - venue: "Online" 
     address: ""
 
-
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
